@@ -3,10 +3,11 @@
 - "Pincha"
 
 ## Integrantes
-- "Kapusta Nahuel Integrante 1"
-- "Godoy Felipe Integrante 2"
+- "Godoy Felipe Integrante 1"
+- "Kapusta Nahuel Integrante 2"
 - "Gil Roces Bautista Integrante 3"
 - "Oliver Nacher Manuel Integrante 4"
+- "Leonardo Gabriel Ledesma Integrante 5"
 
 ## Documento Evidencias
 - https://docs.google.com/document/d/1UXxliE6VSckxA1VoPkmSQ5FSSCJAwnwr_HLf8aFVqLM/edit?usp=sharing 
